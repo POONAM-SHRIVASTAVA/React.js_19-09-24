@@ -1,0 +1,19 @@
+.main{
+   max-width:1320px;
+  margin:auto;
+  background-color:aqua;
+}
+.row{
+  width:1320;
+  margin:auto;
+  display:flex;
+  flex-wrap: wrap;
+  
+}
+.cardItems{
+  flex-basis: 23%;
+  background-color: aliceblue;
+  margin:1%;
+  heigth:200%;
+
+}
